@@ -1,0 +1,22 @@
+{
+  "name": "revisao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start":"npx tsx index.ts"
+  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "decimal.js": "^10.6.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.2",
+    "tsx": "^4.20.6"
+  }
+}
